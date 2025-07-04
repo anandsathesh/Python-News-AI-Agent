@@ -15,3 +15,5 @@ This free project:
 ## 🔁 Schedule Daily
 
 Use [PythonAnywhere.com](https://www.pythonanywhere.com/) to run it daily at 7 AM for free.
+
+env file has api keys for privacy concerns it is not shared here.
